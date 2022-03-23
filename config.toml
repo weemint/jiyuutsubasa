@@ -1,6 +1,6 @@
 baseURL = "https://jiyuutsubasa.tk/"
 languageCode = "zh-CN"
-title = "德小窗"
+title = "德先生的小窗"
 theme = "ink-free"
 paginate = 5
 
@@ -12,7 +12,7 @@ copyright = "© 德先生的小窗"
   posts = "/:year/:month/:title"
 
 [params]
-	subtitle = "民主使每个人成为自己的主宰"
+	subtitle = "以一灯传诸灯，终至万灯皆明"
 
 	# Optional 64x64 avatar image.
 	avatar = "https://image.freepik.com/free-vector/young-man-head-with-beard-avatar-character_24877-36786.jpg"
@@ -60,7 +60,7 @@ url = "/about"
 weight = 4
 
 [[params.social]]
-name = "RSS订阅"
+name = "RSS订阅链接"
 icon = "rss"
 url = "/index.xml"
 
