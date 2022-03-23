@@ -4,7 +4,7 @@ title = "德小窗"
 theme = "ink-free"
 paginate = 5
 
-copyright = "© jiyuutsubasa"
+copyright = "© 德先生的小窗"
 # Demo only
 #ignoreErrors = ["error-missing-instagram-accesstoken"]
 
@@ -30,8 +30,8 @@ copyright = "© jiyuutsubasa"
 
 	# Stupid footers :)
 	footers = [ 
-		"What Tiger King can teach us about x86 Assembly",
-		"10 Reasons why gcc SHOULD be re-written in JavaScript - You won't believe #8!"
+		"关于 x86 汇编，Tiger King 能教给我们什么",
+		"应该用 JavaScript 重写 gcc 的 10 个原因 - 你不会相信 #8！"
 	]
 
 	# Github base url
@@ -60,12 +60,7 @@ url = "/about"
 weight = 4
 
 [[params.social]]
-name = "源码"
-icon = "github"
-url = "#"
-
-[[params.social]]
-name = "订阅"
+name = "RSS订阅"
 icon = "rss"
 url = "/index.xml"
 
